@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;}
+.container{
+    height: 100vh;
+    background-color: antiquewhite;
+}
+.elements{
+
+    padding-left: 10px;
+}
+
+.input{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    max-width: 800px;
+    padding: 5px;
+    font-size: 1.5rem;
+    width: 80%;
+}
+.button{
+    padding: 5px;
+    font-size: 1.5rem;
+    background-color: aquamarine;
+    border: 2px solid green;
+    border-radius: 10px;
+}
+
