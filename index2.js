@@ -10,5 +10,5 @@ let sendurl=(url)=>{
     // fetch(`http://localhost/download?URL=${url}`,{
     //     method:"GET"
     // }).then(res=>res.json()).then(json=>{console.log(json)})
-    window.location.href=`http://localhost/download?URL=${url}`
+    window.location.href=`https://ytdownloadverse.cyclic.app/download?URL=${url}`
 }
